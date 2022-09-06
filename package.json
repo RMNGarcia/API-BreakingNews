@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RMNGarcia/API-BreakingNews.git"
+    "url": "git+https://github.com/remng/API-BreakingNews.git"
   },
   "keywords": [],
   "author": "Renato",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RMNGarcia/API-BreakingNews/issues"
+    "url": "https://github.com/remng/API-BreakinpmngNews/issues"
   },
-  "homepage": "https://github.com/RMNGarcia/API-BreakingNews#readme",
+  "homepage": "https://github.com/remng/API-BreakingNews#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "mongoose": "^6.5.2",
     "nodemon": "^2.0.19"
   }
 }
