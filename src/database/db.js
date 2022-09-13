@@ -5,7 +5,7 @@ const connectDatabase = () => {
 
   mongoose
     .connect(
-      'mongodb+srv://root:root@cluster0.t5ah9rc.mongodb.net/?retryWrites=true&w=majority',
+      'your url connection from MongoDBAtlas',
       { useNewUrlParser: true, useUnifiedTopology: true }
     )
     .then(() => console.log('MongoDB Atlas Connected'))
